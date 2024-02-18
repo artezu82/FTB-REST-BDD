@@ -1,0 +1,24 @@
+16.02.2024 18:51:11.917 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 18:51:12.738 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 18:51:13.365 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 19:04:36.345 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 19:04:37.188 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 19:04:37.859 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 19:04:56.310 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+16.02.2024 19:04:57.052 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 19:04:57.632 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:29:08.185 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([12]) 
+16.02.2024 21:29:08.947 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:29:09.562 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:30:42.272 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 21:30:42.988 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:30:43.501 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:32:05.339 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 21:32:06.013 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:32:06.507 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:32:30.557 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 21:32:31.219 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:32:31.729 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:34:20.236 [main] INFO  c.m.a.f.a.r.b.u.ApiCalls - Sending GET for: aircrafts/{id}([1157]) 
+16.02.2024 21:34:20.942 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
+16.02.2024 21:34:21.495 [main] ERROR i.q.a.AllureLifecycle - Could not add attachment: no test is running
