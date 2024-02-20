@@ -1,11 +1,12 @@
 Feature: Testing FTB REST API AIRCRAFTS resource
   Clients should be able to READ/CREATE/UPDATE/DELETE an aircraft record.
 
+
   Scenario: Get specific aircraft with null seats data by its ID
     Given FTB is up and running and the tests are configured
+    And there is at least one aircraft with null seats created in the database and its id is found and remembered
     When client gets details of Aircraft id=1157
     Then aircraft data to be manufacturer='Wierdo' and model='Strange Thing' and null seats
-
 
 
   Scenario: Create an aircraft with null seats
